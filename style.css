@@ -1,0 +1,36 @@
+p {
+  text-align: center;
+}
+
+.button{
+  text-decoration:none;
+  background-color:blue;
+  padding:1px 1px ;
+  color:black;
+  }
+.button:hover{
+  background-color:green;
+  color:white;
+
+}
+.button1{
+  text-decoration:none;
+  background-color:red;
+  padding:1px 1px ;
+  color:black;
+  }
+.button1:hover{
+  background-color:green;
+  color:white;
+
+}
+
+.button2{
+  text-decoration:none;
+  background-color:yellow;
+  padding:1px 1px ;
+  color:black;
+  }
+.button2:hover{
+  background-color:green;
+  color:white;
